@@ -1,0 +1,3 @@
+Hello Git
+I am learning step by step
+-> Learning through practical way  deploying the applications , and pull out the remote repo.
